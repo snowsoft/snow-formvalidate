@@ -65,3 +65,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+.idea/modules.xml
+.idea/vcs.xml
+.idea/snow-formvalidate.iml
